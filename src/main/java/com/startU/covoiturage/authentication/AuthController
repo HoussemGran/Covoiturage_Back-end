@@ -1,0 +1,11 @@
+
+
+@RestController
+public AuthController{
+
+    public auth(String username , String password){
+            
+    }
+
+
+}
